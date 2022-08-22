@@ -32,7 +32,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
 ### My Elastic Beanstalk Endpoint
-http://image-filter-0207-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/B10B/production/_125732354_durban3.jpg
+http://angie-dev2.us-east-1.elasticbeanstalk.com/filteredImage?image_url=https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/15F40/production/_126402998_gettyimages-1242650454.jpg
 
 ## Stand Out (Optional)
 
@@ -44,9 +44,6 @@ If you're feeling up to it, refactor the course RESTapi to make a request to you
 
 Prevent requests without valid authentication headers.
 > !!NOTE if you choose to submit this, make sure to add the token to the postman collection and export the postman collection file to your submission so we can review!
-
-### My Elastic Beanstalk Endpoint
-http://angie-dev2.us-east-1.elasticbeanstalk.com/filteredImage?image_url=https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/15F40/production/_126402998_gettyimages-1242650454.jpg
 
 ### Custom Domain Name
 
