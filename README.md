@@ -45,6 +45,9 @@ If you're feeling up to it, refactor the course RESTapi to make a request to you
 Prevent requests without valid authentication headers.
 > !!NOTE if you choose to submit this, make sure to add the token to the postman collection and export the postman collection file to your submission so we can review!
 
+### My Elastic Beanstalk Endpoint
+http://angie-dev2.us-east-1.elasticbeanstalk.com/filteredImage?image_url=https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/15F40/production/_126402998_gettyimages-1242650454.jpg
+
 ### Custom Domain Name
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
